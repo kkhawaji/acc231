@@ -86,7 +86,7 @@
     <plugin name="cordova-plugin-globalization" source="npm" />
 	<plugin name="cordova-plugin-media" spec="~4.0.0" source="npm"/>
 	<plugin source="git" spec="https://github.com/moust/cordova-plugin-videoplayer.git " />
-	<plugin source="git" spec="github.com/apla/me.apla.cordova.app-preferences.git" />
+	
     <plugin name="cordova-plugin-media" source="npm" />
     <plugin source="git" spec="https://github.com/nordnet/cordova-universal-links-plugin" />
     <plugin source="git" spec="https://github.com/caleb87/SocialSharing-PhoneGap-Plugin" />
