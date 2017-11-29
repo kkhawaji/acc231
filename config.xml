@@ -84,7 +84,7 @@
     <plugin name="cordova-plugin-battery-status" source="npm" />
     <plugin name="cordova-plugin-device-orientation" source="npm" />
     <plugin name="cordova-plugin-globalization" source="npm" />
-	 <plugin name="com.dawsonloudon.videoplayer" version="1.0.0" />
+	 <plugin name="com.dawsonloudon.videoplayer" version="1.0.0" source="npm" />
     <plugin name="cordova-plugin-media" source="npm" />
     <plugin source="git" spec="https://github.com/nordnet/cordova-universal-links-plugin" />
     <plugin source="git" spec="https://github.com/caleb87/SocialSharing-PhoneGap-Plugin" />
