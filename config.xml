@@ -86,6 +86,9 @@
     <plugin name="cordova-plugin-globalization" source="npm" />
 	<plugin name="cordova-plugin-media" spec="~4.0.0" source="npm"/>
 	<plugin source="git" spec="https://github.com/moust/cordova-plugin-videoplayer.git " />
+	<feature name="VideoPlugin">
+      <param name="android-package" value="com.phonegap.plugins.video.VideoPlugin" />
+  </feature>
 	
 	
     <plugin name="cordova-plugin-media" source="npm" />
